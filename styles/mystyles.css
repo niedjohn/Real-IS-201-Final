@@ -1,0 +1,34 @@
+/*!John Niedfeldt March 5, 2022*/
+.background {
+    background-color:rgb(236, 148, 46);
+}
+.ambackground {
+    background-color: rgb(110, 192, 33);
+}
+.bold {
+    font-weight:bold;
+}
+.italic {
+    font-style: italic;
+}
+a {
+    color: rgb(35, 123, 145);
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: none;
+}
+.textalingmentc {
+    text-align: center;
+}
+.textalingmentr {
+    text-align: right;
+}
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
