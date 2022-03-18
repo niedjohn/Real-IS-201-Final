@@ -8,6 +8,9 @@
 .bold {
     font-weight:bold;
 }
+.underline {
+    text-decoration: underline;
+}
 .italic {
     font-style: italic;
 }
